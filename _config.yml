@@ -6,7 +6,7 @@ rdiscount:
   extensions: [smart]
 
 name: Artem Koshelev
-url:
+url: artkoshelev.github.io
 description: Test (automation) remarks 
 twitter: art_koshelev
 github: artkoshelev
