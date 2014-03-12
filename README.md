@@ -1,3 +1,3 @@
-artkoshelev.github.com
+artkoshelev.github.io
 ======================
 Repository for my blog
