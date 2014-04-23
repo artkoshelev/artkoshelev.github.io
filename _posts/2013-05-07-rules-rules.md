@@ -45,7 +45,7 @@ public class PersonalInfo {
 
     @ClassRule
     // рула, которая будет следить за webdriver'ом
-    public statuc ManageDriverRule mdr = new ManageDriverRule(driver);
+    public static ManageDriverRule mdr = new ManageDriverRule(driver);
 
     @Rule
     // рула, которая будет выполнять авторизацию
