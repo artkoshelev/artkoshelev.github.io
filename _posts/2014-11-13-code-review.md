@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ревью кода
+title: Посмотри что я наделал
 category: development, automation
 image: 
   feature: 2014-11-13.jpg
