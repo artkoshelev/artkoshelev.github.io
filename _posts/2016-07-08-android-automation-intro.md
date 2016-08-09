@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Инфраструктура для автоматизации на android - железо
+title: Инфраструктура автоматизации на android - железо
 category: development, android, automation
 ---
 
