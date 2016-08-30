@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Инфраструктура автоматизации на android - эмуляторы
+title: Автоматизация для android - эмуляторы
 category: development, android, automation
 ---
 

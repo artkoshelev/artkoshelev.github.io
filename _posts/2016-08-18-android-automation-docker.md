@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Инфраструктура автоматизации на android - docker
+title: Автоматизация для android - docker
 category: development, android, automation, docker
 ---
 
