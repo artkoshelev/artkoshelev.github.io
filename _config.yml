@@ -15,9 +15,9 @@ owner:
   twitter:        art_koshelev
   facebook:       
   github:         artkoshelev
-  stackexchange:  
-  linkedin:       
-  instagram:      
+  stackexchange:  https://stackoverflow.com/users/3524074/artkoshelev?tab=profile
+  linkedin:       arkoshelev
+  instagram:      artkoshelev
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
@@ -36,7 +36,7 @@ links:
     url: /
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Moscow
+timezone:    Australia/Sydney
 future:      true
 markdown:    kramdown
 
